@@ -18,6 +18,19 @@
     ],
     "author": "Liang.Shengxian <soliangsx@hotmail.com> (http://www.getouo.com/[暂未开放])",
     "license": "ISC",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/GeTOUO/TurtlePokerAlgorithms.git"
+    },
+    "bugs": {
+        "url": "https://github.com/GeTOUO/TurtlePokerAlgorithms/issues"
+    },
+    "homepage": "https://github.com/GeTOUO/TurtlePokerAlgorithms#readme",
     "types": "./dist/index.d.ts",
-    "typings": "./dist/index.d.ts"
+    "typings": "./dist/index.d.ts",
+    "dependencies": {
+        "node": "^10.1.0",
+        "save": "^2.3.2",
+        "typescript": "next"
+    }
 }
